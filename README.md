@@ -1,4 +1,4 @@
-# Ham-and-Spam-filtering-using-Naive-bayes-Logistic-regression-and-SGD-
+# Analysis of Naive Bayes and Logistic Regeression
 The solution code for the problem stated in hw2.pdf is in hw2.zip
 
 language : Python2.7
