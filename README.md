@@ -1,4 +1,6 @@
-# Analysis of Naive Bayes and Logistic Regeression
+# Analysis of Naive Bayes and Logistic Regression
+## A breakdown of the project including objectives and learning outcomes available on my website [website](https://petrichor1998.github.io/Projects)
+
 The solution code for the problem stated in hw2.pdf is in hw2.zip
 
 language : Python2.7
